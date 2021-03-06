@@ -1,4 +1,6 @@
 # DayDreamer.github.io
 
-- about me
+index
+- about
+- contact
 - likecoin
