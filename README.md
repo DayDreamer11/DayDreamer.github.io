@@ -2,10 +2,12 @@
 
 ```
 index
-|-- about
-||- contact
+|--- about
+| |- contact
 |
-|- likecoin
+|- blockchain
+|  |- likecoin
+|  |- LBRY credits
 ```
 
 **Plugin**
