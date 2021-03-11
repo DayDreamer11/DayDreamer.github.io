@@ -1,9 +1,8 @@
 # DayDreamer.github.io
 
 ```
-index
-|--- about
-| |- contact
+|-- about
+||- contact
 |
 |- blockchain
 |  |- likecoin
