@@ -1,7 +1,7 @@
 #
 
 ```
-|— index
+|— default
 |  |— about
 |  |— contact
 |
