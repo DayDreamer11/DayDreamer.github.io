@@ -1,4 +1,4 @@
 ---
-layout: content
+layout: main
 title:
 ---
