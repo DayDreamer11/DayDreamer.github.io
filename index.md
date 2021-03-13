@@ -2,4 +2,4 @@
 layout: home
 title:
 ---
-{{site.pages}}
+<p>{{site.pages}}</p>
