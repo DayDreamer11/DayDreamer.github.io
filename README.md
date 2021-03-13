@@ -1,12 +1,13 @@
 # DayDreamer.github.io
 
 ```
-|-- about
-||- contact
+|— index
+|  |— about
+|  |— contact
 |
-|- blockchain
-|  |- likecoin
-|  |- LBRY credits
+|— blockchain
+|  |— likecoin
+|  |— LBRY credits
 ```
 
 **Plugin**
