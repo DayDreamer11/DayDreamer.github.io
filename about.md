@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: sub
 title:
 group: news
 ---
