@@ -1,4 +1,5 @@
 ---
+layout: main
 ---
 [關於我](./about.md)
 
