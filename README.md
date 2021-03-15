@@ -3,7 +3,6 @@
 ```
 default
 |— about
-|— contact
 |— sponsor
 
 content
