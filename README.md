@@ -3,13 +3,12 @@
 ```
 default
 |— about
-|— sponsor
-
-content
 |— novel
-|— blockchain
-|  |— likecoin
-|  |— LBRY credits
+|— fashion
+|— high tech
+|  |— blockchain
+|  |  |— likecoin
+|  |  |— LBRY credits
 ```
 
 **Plugin**
