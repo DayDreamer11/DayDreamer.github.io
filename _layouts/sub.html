@@ -38,7 +38,10 @@
         <section id="main_content">
           <h1>{{ page.title }}</h1>
           {{ content }}
-          {% for post in site.categories.[page.group] %}<a href="{{post.url}}">{{post.title}}</a>{% endfor %}
+          {% for post in site.categories.[page.group] %}
+           <a href="{{post.url}}">{{post.title}}</a>
+           <br />
+          {% endfor %}
         </section>
 
         <footer>
