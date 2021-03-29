@@ -3,12 +3,12 @@
 ```
 default
 |— about
-|— novel
 |— blockchain
 |  |— likecoin
 |  |— LBRY credits
 |
-|—
+|— illustration
+|— novel
 ```
 
 |Plugin|tutorial|
