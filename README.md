@@ -2,7 +2,7 @@
 
 ```
 default
-|— about
+|— news
 |— blockchain
 |  |— likecoin
 |  |— LBRY credits
