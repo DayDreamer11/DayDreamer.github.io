@@ -40,7 +40,7 @@
           {{ content }}
           {% assign post = site.categories.[page.group] | sort: 'tag' %}
           {% for i in post %}
-           <a href="{{post.url}}">{{i.title}}</a>
+           <a href="{{i.url}}">{{i.title}}</a>
            <br />
           {% endfor %}
         </section>
