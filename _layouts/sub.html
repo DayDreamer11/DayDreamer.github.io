@@ -38,13 +38,11 @@
         <section id="main_content">
           <h1>{{ page.title }}</h1>
           {{ content }}
-          {% for y in site.categories.[page.group] %}
-           {% assign i = y | sort: 'tag' %}
-           {% for i in i %}
+          {% site.categories.[page.group] | sort: 'tag' %}
+           {% for i in site.categories.[page.group] %}
             <a href="{{i.url}}">{{i.title}}</a>
             <br />
            {% endfor %}
-          {% endfor %}
         </section>
 
         <footer>
