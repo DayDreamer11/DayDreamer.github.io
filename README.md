@@ -6,6 +6,7 @@ default
 |— blockchain
 |  |— likecoin
 |  |— LBRY credits
+|  |— NFTs
 |
 |— illustration
 |— novel
