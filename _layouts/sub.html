@@ -40,7 +40,7 @@
           {{ content }}
           {% assign y = site.posts | sort: 'tag'%}
           {% for i in y %}
-          {% if i.categories == page.group %}
+           {% if i.categories == page.group %}
             <a href="{{i.url}}">{{i.title}}</a>
             <br />
            {% endif %}
