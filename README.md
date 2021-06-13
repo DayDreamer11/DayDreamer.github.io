@@ -14,5 +14,5 @@ default
 
 |Plugin|tutorial|
 |:-|:-|
-|likecoin|https://docs.like.co/v/zh/user-guide/creator/self-host/jekyll
-||https://docs.like.co/developer/like-pay/web-widget/reference
+|like button|https://docs.like.co/v/zh/user-guide/creator/self-host/jekyll
+|like pay|https://docs.like.co/developer/like-pay/web-widget/reference
