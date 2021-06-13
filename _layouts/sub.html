@@ -40,7 +40,7 @@
           {{ content }}
           {% assign y = site.categories.[page.group] %}
           {% for i in y %}
-           <a href="{{i.tags}}">{{i.tag}}</a>
+           <a href="{{site.tags.［i.tag］}}">{{i.tag}}</a>
            <a href="{{i.url}}">{{i.title}}</a>
            <br />
           {% endfor %}
