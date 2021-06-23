@@ -38,9 +38,9 @@
         <section id="main_content">
           <h1>{{ page.title }}</h1>
           {{ content }}
-          {% assign y = site.categories.[page.group] %}
+          {% assign y = site.categories.[page.categories] %}
           {% for i in y %}
-           <a href="{{site.tags.［i.tag］}}">{{i.tag}}</a>
+           <a href="{{site.tags.［i.tags］}}">{{i.tags}}</a>
            <a href="{{i.url}}">{{i.title}}</a>
            <br />
           {% endfor %}
