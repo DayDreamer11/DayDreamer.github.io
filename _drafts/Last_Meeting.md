@@ -1,3 +1,9 @@
+---
+layout: post
+tag: 假如你是一個人工智能
+title: "Last Meeting"
+---
+
 |Character||
 |:-|:-|
 |xxx|今天我們來進行最後的課題|
